@@ -1,0 +1,3 @@
+[submodule "components/QC7125/Device/Atoll"]
+	path = components/QC7125/Device/Atoll
+	url = https://github.com/woa-msmnile/Atoll.git
